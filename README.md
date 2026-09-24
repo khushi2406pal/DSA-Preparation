@@ -67,6 +67,7 @@ DSA-Preparation/
 │   └── ...
 │
 └── README.md
+```
 
 ## 🧠 DSA Patterns I'm Learning
 
@@ -140,6 +141,7 @@ Time Complexity:  O(...)
 Space Complexity: O(...)
 ===========================================================
 */
+```
 
 ## 📊 Progress
 
