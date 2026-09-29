@@ -5,7 +5,6 @@ A structured collection of my **Data Structures & Algorithms** practice and prob
 This repository contains solutions to problems from **LeetCode** and other coding platforms, primarily implemented in **C++**. The goal is to build strong problem-solving fundamentals, internalize recurring patterns, and maintain daily coding consistency.
 
 ---
-
 ## 📚 Topics Covered
 
 | Topic | Status |
@@ -14,7 +13,7 @@ This repository contains solutions to problems from **LeetCode** and other codin
 | **Strings** | 🟢 Practicing |
 | **Binary Search** | 🟢 Practicing |
 | **Stack & Queue** | 🟢 Practicing |
-| **Linked List** | 🟡 Upcoming |
+| **Linked List** | 🟢 Practicing |
 | **Trees** | 🟢 Practicing |
 | **Graphs** | 🟡 Upcoming |
 | **Dynamic Programming** | 🟢 Practicing |
@@ -29,6 +28,9 @@ DSA-Preparation/
 ├── Arrays/
 │   ├── Running_Sum.cpp
 │   ├── Pivot_Index.cpp
+│   ├── Two_Sum.cpp
+│   ├── Container_With_Most_Water.cpp
+│   ├── Remove_Duplicates_from_Sorted_Array.cpp
 │   ├── Best_Time_to_Buy_and_Sell_Stock.cpp
 │   └── ...
 │
@@ -38,12 +40,24 @@ DSA-Preparation/
 │   └── ...
 │
 ├── Binary_Search/
+│   ├── Median_of_Two_Sorted_Arrays.cpp
+│   ├── Search_Insert_Position.cpp
 │   └── ...
 │
 ├── Stack_Queue/
 │   └── ...
 │
 ├── Linked_List/
+│   ├── Merge_Two_Sorted_Lists.cpp
+│   ├── Merge_K_Sorted_Lists.cpp
+│   ├── Swap_Nodes_in_Pairs.cpp
+│   ├── Remove_Nth_Node_From_End.cpp
+│   ├── Remove_Duplicates_from_Sorted_List_II.cpp
+│   ├── Reverse_Linked_List.cpp
+│   ├── Reverse_Linked_List_II.cpp
+│   ├── Linked_List_Cycle.cpp
+│   ├── Palindrome_Linked_List.cpp
+│   ├── Odd_Even_Linked_List.cpp
 │   └── ...
 │
 ├── Trees/
@@ -76,7 +90,9 @@ DSA-Preparation/
 * Two Pointers
 * Sliding Window
 * Greedy
+* Hashing
 * Array Traversal
+* In-Place Array Modification
 
 ### Strings
 * Two Pointers
@@ -89,14 +105,29 @@ DSA-Preparation/
 ### Binary Search
 * Basic Binary Search
 * Search Space Reduction
-* Lower/Upper Bound
+* Lower Bound / Upper Bound
+* Search Insert Position
 * Binary Search on Answer
+* Binary Search on Partition
 
 ### Stack & Queue
 * Monotonic Stack
 * Stack-based Processing
 * Queue Simulation
 * Next Greater Element
+* Stack / Queue Implementation
+
+### Linked List
+* Linked List Traversal
+* Two Pointers
+* Fast & Slow Pointers
+* In-Place Reversal
+* Pointer Manipulation
+* Merge Sorted Lists
+* Divide and Conquer
+* Cycle Detection
+* Palindrome Detection
+* Linked List Rearrangement
 
 ### Trees
 * Tree Traversal
@@ -115,6 +146,15 @@ DSA-Preparation/
 * Space Optimization
 * Unbounded Knapsack
 * Subset / Target Sum DP
+
+### Graphs
+* Graph Traversal
+* Depth-First Search (DFS)
+* Breadth-First Search (BFS)
+* Connected Components
+* Shortest Path
+* Topological Sort
+* Union Find
 
 ---
 
